@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(12, 12, 12);
+}
+#block {
+  background-color: rgb(255, 255, 255);
+  max-width: 1000px;
+  margin: auto;
+  border-radius: 12px;
+  block-size: 600px;
+  border: 2px solid white;
+}
+#dblock {
+  background-color: rgb(0, 0, 0);
+  font-size: larger;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  size: 100px;
+}
+#title {
+  color: aliceblue;
+}
+#Writer {
+  color: aliceblue;
+}
+#img {
+  border-radius: 9px;
+}
+#p {
+  color: rgb(0, 0, 102);
+}
+#writer {
+  font-size: 3px;
+}
+#d {
+  color: rgb(0, 0, 102);
+}
+#d {
+  color: rgb(0, 0, 102);
+}
